@@ -1,0 +1,53 @@
+﻿  P2.cpp
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(168,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(172,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(172,11): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(177,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(178,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(179,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(180,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(200,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(203,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(207,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(211,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(211,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(211,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(212,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(213,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(214,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(215,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(216,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(220,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(220,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(220,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(221,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(222,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(223,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(225,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(226,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(227,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(229,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(230,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(231,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(233,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(234,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(235,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(237,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(239,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(286,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(294,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(298,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(298,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(313,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(316,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(319,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(325,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(325,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(327,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(327,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(327,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(328,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(329,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(330,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Practical2\P2.cpp(331,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Practical2.vcxproj -> C:\Users\wenzh\Desktop\graphic t\source\repos\Practical2\Debug\Practical2.exe
